@@ -26,3 +26,7 @@
 	path = lem_in
 	url = git@github.com:jmcheon/lem_in.git
 	branch = main
+[submodule "multilayer-perceptron"]
+	path = multilayer-perceptron
+	url = git@github.com:sungyongcho/multilayer-perceptron
+	branch = main
