@@ -4,7 +4,7 @@
 
 |Project name|Description|Score|
 |------|---|---|
-|[Python Module](https://github.com/sungyongcho/python_module)|Introduction to python from learning syntax of python, how to create own packages, use libraries related to Data Science, and finisheds with K-means clustering.|100/100|
+|[Python Module](https://github.com/sungyongcho/dslr/tree/b21a90f6845334f020a7240f2e29e1211522f56e)|Introduction to python from learning syntax of python, how to create own packages, use libraries related to Data Science, and finisheds with K-means clustering.|100/100|
 |[ML Module](https://github.com/sungyongcho/ml_module)|With knowledges from Python Modules, the set of projects consist of creating linear regression and logistic regression from scratch, with cycle of train, predict, and evaluate, and knowledges of metrices to evaluate created model is required|100/100|
 |[ft_linear_regression](https://github.com/sungyongcho/ft_linear_regression)|A project to implement linear regression in more depth.|125/100|
 |[matrix](https://github.com/sungyongcho/matrix)|Learning linear algebra from implementing Vector and Matrix class from scratch, in python. In order to complete project, Laws of linear algebra, and comprehensive understanding of spatial concept of matrix was needed. |100/100|

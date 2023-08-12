@@ -1,21 +1,28 @@
 [submodule "python_module"]
 	path = python_module
 	url = git@github.com:sungyongcho/python_module.git
+	branch = main
 [submodule "ml_module"]
 	path = ml_module
 	url = git@github.com:sungyongcho/ml_module.git
+	branch = main
 [submodule "matrix"]
 	path = matrix
 	url = git@github.com:sungyongcho/matrix.git
+	branch = main
 [submodule "ready-set-boole"]
 	path = ready-set-boole
 	url = git@github.com:sungyongcho/ready-set-boole.git
+	branch = main
 [submodule "ft_linear_regression"]
 	path = ft_linear_regression
 	url = git@github.com:sungyongcho/ft_linear_regression.git
+	branch = main
 [submodule "dslr"]
 	path = dslr
 	url = git@github.com:sungyongcho/dslr.git
+	branch = main
 [submodule "lem_in"]
 	path = lem_in
 	url = git@github.com:jmcheon/lem_in.git
+	branch = main
