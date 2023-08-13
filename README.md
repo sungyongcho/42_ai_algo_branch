@@ -25,6 +25,6 @@
 |[ft_linear_regression](https://github.com/sungyongcho/ft_linear_regression)|선형 회귀 모델을 깊이 있게 구현하는 프로젝트.|125/100|
 |[matrix](https://github.com/sungyongcho/matrix)|파이썬을 사용하여 벡터와 행렬 클래스를 처음부터 구현하며 선형 대수학 및 행렬의 공간 개념을 학습하는 프로젝트.|100/100|
 |[ready-set-boole](https://github.com/sungyongcho/ready-set-boole)|불 대수와 집합 이론의 핵심 개념을 수학과 컴퓨터 과학에 적용하는 프로젝트. 프로그래밍 기술, 비트 연산, 논리 평가, 진리 표, 다양한 재작성 규칙 등을 다루며, 제공 라이브러리를 사용하지 않고 구현함.	|100/100|
-|[dslr](https://github.com/sungyongcho/dslr)|In-depth implementation of a logistic regression model.|125/100|
+|[dslr](https://github.com/sungyongcho/dslr)|로지스틱 회귀 모델을 깊이 있게 구현하는 프로젝트.|125/100|
 |[multilayer-perceptron](https://github.com/sungyongcho/multilayer-perceptron)|다층 퍼셉트론 신경망을 처음부터 구현하는 프로젝트로, 전방향(feed forwarding), 역전파(back propagation), 경사 하강법(gradient descent) 등의 핵심 개념에 집중하며, 학습 및 검증 데이터 세트로 데이터 전처리를 진행하고, 맞춤형 은닉층(hidden layer)과 매개 변수를 지원하는 모듈화된 프로그램 구조를 구축 하여야 함.|in progress|
 |[lem_in](https://github.com/jmcheon/lem_in)|그래프 데이터 구조에 이해가 필요한 기초 알고리즘 프로젝트로, 최적의 경로 찾기와 자원 관리를 효율적으로 다루는 최대 유량 알고리즘을 응용 설계하며, 너비 우선 탐색, 깊이 우선 탐색, 및 다익스트라 알고리즘, 에드몬드-카프, 서로소 경로 찾기(disjoint path finding) 등의 지식이 필요함.  |in progress|
