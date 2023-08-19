@@ -30,3 +30,6 @@
 	path = multilayer-perceptron
 	url = git@github.com:sungyongcho/multilayer-perceptron
 	branch = main
+[submodule "expert-system"]
+	path = expert-system
+	url = git@github.com:sungyongcho/expert-system

@@ -12,6 +12,7 @@
 |[dslr](https://github.com/sungyongcho/dslr)|In-depth implementation of a logistic regression model.|125/100|
 |[multilayer-perceptron](https://github.com/sungyongcho/multilayer-perceptron)|Implementing a multilayer perceptron neural network from scratch, focusing on core concepts like feedforward, backpropagation, and gradient descent, as well as preprocessing data into training and validation sets, and building a modular program to support customizable hidden layers and parameters.|in progress|
 |[lem_in](https://github.com/jmcheon/lem_in)|Elementary algorithm project requiring a solid understanding of the 'graph' data structure to design an algorithm that efficiently tackles optimal pathfinding for network flow and resource management, implementing techniques such as breadth-first search, depth-first search, or Dijkstra's algorithm, Edmonds-Karp algorithm, and disjoint path finding.|in progress|
+|[expert-system](https://github.com/sungyongcho/expert-system)|A project that implements a backward-chaining inference engine based on an input file containing rules, initial facts, and queries. The engine must determine if each query is true, false, or undetermined. This project supports a variety of logical operators, and rule grouping, and offers additional features such as user interaction and reasoning visualization.|in progress|
 
 
 ## 한국어
@@ -28,3 +29,4 @@
 |[dslr](https://github.com/sungyongcho/dslr)|로지스틱 회귀 모델을 깊이 있게 구현하는 프로젝트.|125/100|
 |[multilayer-perceptron](https://github.com/sungyongcho/multilayer-perceptron)|다층 퍼셉트론 신경망을 처음부터 구현하는 프로젝트로, 전방향(feed forwarding), 역전파(back propagation), 경사 하강법(gradient descent) 등의 핵심 개념에 집중하며, 학습 및 검증 데이터 세트로 데이터 전처리를 진행하고, 맞춤형 은닉층(hidden layer)과 매개 변수를 지원하는 모듈화된 프로그램 구조를 구축 하여야 함.|in progress|
 |[lem_in](https://github.com/jmcheon/lem_in)|그래프 데이터 구조에 이해가 필요한 기초 알고리즘 프로젝트로, 최적의 경로 찾기와 자원 관리를 효율적으로 다루는 최대 유량 알고리즘을 응용 설계하며, 너비 우선 탐색, 깊이 우선 탐색, 및 다익스트라 알고리즘, 에드몬드-카프, 서로소 경로 찾기(disjoint path finding) 등의 지식이 필요함.  |in progress|
+|[expert-system](https://github.com/sungyongcho/expert-system)|입력 파일을 기반으로 규칙, 초기 사실, 질의를 처리하여 각 질의가 참인지, 거짓인지, 또는 결정되지 않은 상태인지를 판별하는 역추론 엔진(Backward chaining inference engine)을 구현하는 프로젝트. 다양한 논리 연산자와 묶음 처리를 지원하며, 사용자와 상호작용하거나 추론 과정을 시각화하는 추가 기능 포함.|in progress|
