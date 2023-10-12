@@ -33,3 +33,8 @@
 [submodule "expert-system"]
 	path = expert-system
 	url = git@github.com:sungyongcho/expert-system
+	branch = main
+[submodule "krpsim"]
+	path = krpsim
+	url = git@github.com:jmcheon/krpsim.git
+	branch = main
